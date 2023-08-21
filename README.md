@@ -70,3 +70,6 @@ En otra terminal:
 # Sourcea ros
 ros2 run watcher server_img_delivery
 ```
+
+## Arquitectura de la solución
+![](/arquitectura.png)
