@@ -1,6 +1,6 @@
-# Watcher version CV2
+# Watcher version para rasperry con pi cam
 
-Esta versión del publicador de watcher hace uso de cv2 para tomar las fotos.
+Esta versión del publicador de watcher hace uso de picam para tomar las fotos.
 
 Estos nodos son los que se ejecutaran dentro de las raspberry pi
 
